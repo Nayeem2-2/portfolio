@@ -1,0 +1,79 @@
+banner:
+  title: Hi! I’m Mursalin Sarkar Nayeem
+social:
+  twitter: ""
+  linkedin: ""
+  github: Nayeem2-2
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  gmail: samrobbinsgb
+about:
+  enable: true
+  content: 2nd Year Durham Computer Science Student
+  button:
+    btnText: Find out more
+    URL: "/about"
+skill:
+  enable: true
+  item:
+    - title: JavaScript
+      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: C++
+      logo: https://www.codecblend.com/v3/images/stories/virtuemart/product/resized/C++-thumbnail_640x640.jpg 
+      
+      description: Strong proficiency in C++ for systems programming and algorithm development.
+    - title: HTML
+      logo: https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg
+      description: Experienced with building responsive web pages using HTML5.
+    - title: CSS
+      logo: https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg
+      description: Skilled in styling web pages and creating modern, responsive layouts.
+    - title: C
+      logo: https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg
+      description: Strong foundation in C programming, focused on low-level system applications.
+    - title: Java
+      logo: https://th.bing.com/th/id/R.fcb9bf4f7b1c2a15445450b9e20711c7?rik=t3DOw4O5XsNI4Q&pid=ImgRaw&r=0
+      description: Proficient in Java for backend development and object-oriented design.
+    - title: Python
+      logo: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
+      description: Experienced with Python for data analysis, machine learning, and web development.
+experience:
+  enable: true
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      title: init.g
+      company: Google
+      duration: November 2019
+hackathons:
+  enable: true
+  item:
+    - title: Hack Cambridge 2019
+      description: Climate change simulator
+      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
+      url: none
+certifications:
+  enable: true
+  item:
+    - title: Microsoft Azure Fundamentals
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1592501459/microsoft-certified-fundamentals-badge_cpcgyn.svg
+      url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
+education:
+  enable: true
+  item:
+    - title: BSc Computer Science
+      year: 2022 - Present
+      academy: Jahangirnagar University
+      image: https://w7.pngwing.com/pngs/291/41/png-transparent-jahangirnagar-university-dhaka-student-professor-university-of-dhaka.png
+leadership:
+  enable: true
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793280/logos/logos_yl_qozav6.webp
+      title: Young Leader
+      company: The Scout Association
+      duration: September 2014 - July 2018
+portfolio:
+  filter:
+    - label: Web Dev
+      value: web-dev
